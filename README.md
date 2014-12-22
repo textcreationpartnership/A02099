@@ -35,18 +35,28 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Greenes farewell to folly Sent to courtiers and schollers as a president to warne them from the vain
+
+1. TO THE HONORABLE MINDED GENTLEMAN, Robert Carey, Esquire: Robert Greene wisheth as many good fortunes as the honor of his thoughts doe merite.
+
+1. TO THE GENTLEMEN Students of both Vniuersities health.
+
 #####Body#####
 
-1. The Tale of Peratio.
+1. Greene his farewell to Follie.
 
-1. THE TALE OF Cosimo.
+    _ The Tale of Peratio.
 
-1. Nynus Monarch of Egypt.
+1. The second discourse of Folly.
 
-1. Semyramis the faithfull wife of poore Maenon.
+    _ THE TALE OF Cosimo.
 
-1. Bernardinos Tale.
+    _ Nynus Monarch of Egypt.
+
+    _ Semyramis the faithfull wife of poore Maenon.
+
+1. The third discourse of Follie.
+
+    _ Bernardinos Tale.
 
 **Types of content**
 
